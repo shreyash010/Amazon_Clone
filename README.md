@@ -2,7 +2,7 @@
 
 This project is a clone of the Amazon user interface (UI) created using HTML and CSS. The purpose of this project is to practice and showcase front-end web development skills by recreating the look and feel of the Amazon website.
 
-![Amazon UI Clone](screenshot.png)
+![Amazon UI Clone]([screenshot.png](https://github.com/shreyash010/Amazon_Clone/blob/main/img/Amazon%20UI.png))
 
 ## Table of Contents
 
